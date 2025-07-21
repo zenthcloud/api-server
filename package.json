@@ -1,0 +1,16 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "**Zenth API Server** is the central unified API layer of the Zenth Cloud ecosystem, developed by Sky Genesis Enterprise. It serves as the main integration gateway between all Zenth services, enabling modular communication, service orchestration, and user-level interaction via a secure, RESTful interface.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
